@@ -1,0 +1,15 @@
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\bin\Debug\SingleViewApp1.dll
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\bin\Debug\SingleViewApp1.pdb
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\bin\Debug\SingleViewApp1.SingleViewApp1.apk
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\bin\Debug\SingleViewApp1.SingleViewApp1-Signed.apk
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\obj\Debug\SingleViewApp1.csprojResolveAssemblyReference.cache
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\obj\Debug\SingleViewApp1.dll
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\obj\Debug\SingleViewApp1.pdb
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\obj\Debug\android\bin\SingleViewApp1.SingleViewApp1.apk
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\obj\Debug\res\layout\main.xml
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\obj\Debug\res\values\strings.xml
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\obj\Debug\res\drawable\icon.png
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\obj\Debug\R.cs.flag
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\obj\Debug\uploadflags.txt
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\obj\Debug\SingleViewApp1.dll.mdb
+c:\users\devuser\documents\visual studio 2017\Projects\SingleViewApp1\SingleViewApp1\bin\Debug\SingleViewApp1.dll.mdb

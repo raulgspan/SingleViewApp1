@@ -1,0 +1,4 @@
+SingleViewApp1.MainActivity, SingleViewApp1;md5a0e37f390c8e419125c09cc7a7d50071.MainActivity
+SingleViewApp1.MainActivity, SingleViewApp1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a0e37f390c8e419125c09cc7a7d50071.MainActivity
+SingleViewApp1.MainActivity;md5a0e37f390c8e419125c09cc7a7d50071.MainActivity
+singleviewapp1.MainActivity;md5a0e37f390c8e419125c09cc7a7d50071.MainActivity
