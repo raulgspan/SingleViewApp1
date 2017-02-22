@@ -6,6 +6,10 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
+using Microsoft.Azure.Mobile;
+using Microsoft.Azure.Mobile.Analytics;
+using Microsoft.Azure.Mobile.Crashes;
+
 namespace SingleViewApp1
 {
     [Activity(Label = "SingleViewApp1", MainLauncher = true, Icon = "@drawable/icon")]
@@ -16,6 +20,9 @@ namespace SingleViewApp1
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
+
+            MobileCenter.Start("baa403df-54b9-4ceb-bbd1-4f91bf8db3b9",
+                    typeof(Analytics), typeof(Crashes));
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
